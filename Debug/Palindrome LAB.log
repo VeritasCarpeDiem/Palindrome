@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Veritas\Desktop\Palindrome LAB\Source.cpp(16,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Veritas\Desktop\Palindrome LAB\Source.cpp(41,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Veritas\Desktop\Palindrome LAB\Source.cpp(79,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Palindrome LAB.vcxproj -> C:\Users\Veritas\Desktop\Palindrome LAB\Debug\Palindrome LAB.exe
